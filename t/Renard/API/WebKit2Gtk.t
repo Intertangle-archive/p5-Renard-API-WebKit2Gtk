@@ -4,8 +4,8 @@ use Test::Most tests => 1;
 
 use Modern::Perl;
 
-use Renard::Incunabula::API::Gtk3;
-use Renard::Incunabula::API::WebKit2Gtk;
+use Renard::API::Gtk3;
+use Renard::API::WebKit2Gtk;
 use Gtk3;
 
 subtest "Initialise" => sub {

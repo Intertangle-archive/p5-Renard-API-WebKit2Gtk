@@ -1,5 +1,5 @@
 use Renard::Incunabula::Common::Setup;
-package Renard::Incunabula::API::WebKit2Gtk;
+package Renard::API::WebKit2Gtk;
 # ABSTRACT: API for the WebKit2GTK browser
 
 use Glib::Object::Introspection;
@@ -26,6 +26,6 @@ __END__
 
 =head1 SEE ALSO
 
-L<Repository information|http://project-renard.github.io/doc/development/repo/p5-Renard-Incunabula-API-WebKit2Gtk/>
+L<Repository information|http://project-renard.github.io/doc/development/repo/p5-Renard-API-WebKit2Gtk/>
 
 =cut
